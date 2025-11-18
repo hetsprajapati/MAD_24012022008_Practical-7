@@ -82,7 +82,7 @@ The app connects to a JSON generator API to fetch person data:
 
 ## Package Structure
 ```
-com.example.mad_24172012068_practical7/
+com.example.mad_24012022008_practical7/
 ├── MainActivity.kt
 ├── Person.kt
 ├── PersonAdapter.kt
@@ -92,7 +92,7 @@ com.example.mad_24172012068_practical7/
 ```
 
 ## Build Configuration
-- **Application ID**: com.example.mad_24172012068_practical7
+- **Application ID**: com.example.mad_24012022008_practical7
 - **Target SDK**: As specified in app-level build.gradle
 - **Minimum SDK**: As specified in app-level build.gradle
 
